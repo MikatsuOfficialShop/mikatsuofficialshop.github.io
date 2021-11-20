@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fd7d145b;
+}
+
+#projects {
+  background-color: #fd7d145b;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.content_sub_footer img {
+  width: 60px;
+  margin: 0 12px;
+  box-shadow: 0 0 20px o #7f7f7f3d;
+  cursor: pointer;
+  border-radius: 50%;
+}
